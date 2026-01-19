@@ -13,12 +13,7 @@ FIXME ist unsere Hands-On-Veranstaltung, bei der wir praktisch mit Technik arbei
     <iframe src="https://vorstand.uugrn.org/Kalender/next_fixme.html" class="event-detail-iframe" scrolling="no" frameborder="0"></iframe>
 </div>
 
-**Uhrzeit:** 19:00 Uhr
-**Ort:** Dezernat 16, Emil-Maier-Str. 16, 69115 Heidelberg
-
-### Regelmäßiger Termin
-
-**Jeden 1. Freitag im Monat, ab 19:00 Uhr**
+**Regelmäßig:** Jeden 1. Freitag im Monat
 
 ### Was dich erwartet
 
@@ -51,15 +46,6 @@ Du hast ein spannendes Thema, das du zeigen möchtest? Perfekt!
 - Schreib einfach auf der [Mailingliste](https://lists.uugrn.org), was du vorstellen möchtest
 - Oder bring es spontan mit zum FIXME
 - Ideen werden auch in unserem [Wiki](https://wiki.uugrn.org) gesammelt
-
-### Anfahrt
-
-**Dezernat 16**
-Emil-Maier-Str. 16
-69115 Heidelberg
-
-- **ÖPNV:** Straßenbahn Linie 5, Haltestelle "Chirurgische Klinik"
-- **Parken:** Begrenzte Parkplätze vorhanden, besser ÖPNV nutzen
 
 ### Kontakt & Updates
 

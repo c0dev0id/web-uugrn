@@ -10,7 +10,7 @@ Die UUGRN veranstaltet zwei regelmäßige Events: **FIXME** für technischen Aus
 <div class="event-overview-grid">
     <div class="event-overview-card">
         <h3>🔧 FIXME</h3>
-        <p><strong>Jeden 1. Freitag im Monat · 19:00 Uhr</strong></p>
+        <p><strong>Jeden 1. Freitag im Monat</strong></p>
         <p>Hands-On-Veranstaltung mit Workshops, Vorträgen und praktischem Experimentieren. "Ich zeig euch mal was" ist unser Motto.</p>
         <p><strong>Nächster Termin:</strong></p>
         <div class="event-detail-box compact">
@@ -21,7 +21,7 @@ Die UUGRN veranstaltet zwei regelmäßige Events: **FIXME** für technischen Aus
 
     <div class="event-overview-card">
         <h3>🍺 Stammtisch</h3>
-        <p><strong>Jeden 3. Montag im Monat · 18:30 Uhr</strong></p>
+        <p><strong>Jeden 3. Montag im Monat</strong></p>
         <p>Geselliges Treffen für lockeren Austausch in entspannter Atmosphäre. 5-20 Leute plaudern informell, oft bis Mitternacht.</p>
         <p><strong>Nächster Termin:</strong></p>
         <div class="event-detail-box compact">

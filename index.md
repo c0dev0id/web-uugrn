@@ -21,7 +21,6 @@ title: Home
                 </div>
                 <div class="event-details">
                     <strong>FIXME</strong>
-                    <span>19:00 Uhr · Dezernat 16, Heidelberg</span>
                 </div>
                 <a href="https://fixme.uugrn.org" class="event-link" target="_blank">Details →</a>
             </div>
@@ -31,7 +30,6 @@ title: Home
                 </div>
                 <div class="event-details">
                     <strong>Stammtisch</strong>
-                    <span>18:30 Uhr · METROPOLIS Lounge, Walldorf</span>
                 </div>
                 <a href="https://stammtisch.uugrn.org" class="event-link" target="_blank">Details →</a>
             </div>

@@ -13,12 +13,7 @@ Unser Stammtisch ist das **gesellige Treffen** für informellen Austausch. Hier 
     <iframe src="https://vorstand.uugrn.org/Kalender/next_stammtisch.html" class="event-detail-iframe" scrolling="no" frameborder="0"></iframe>
 </div>
 
-**Uhrzeit:** 18:30 Uhr
-**Ort:** METROPOLIS Lounge, Impexstr. 1, 69190 Walldorf
-
-### Regelmäßiger Termin
-
-**Jeden 3. Montag im Monat, ab 18:30 Uhr**
+**Regelmäßig:** Jeden 3. Montag im Monat
 
 ### Was dich erwartet
 
@@ -40,34 +35,14 @@ Egal ob du:
 
 Alle sind herzlich willkommen. Wir haben alle mal klein angefangen!
 
-### Location
-
-**METROPOLIS Lounge Walldorf**
-Impexstr. 1
-69190 Walldorf
-
-Die METROPOLIS Lounge bietet:
-- Gemütliche Atmosphäre
-- Gute Getränkeauswahl
-- Platz für unsere Gruppe
-- Gute Erreichbarkeit
-
 ### Wie du teilnimmst
 
 **Einfach vorbeikommen - keine Anmeldung nötig!**
 
 1. Schau dir den Termin an (oben auf der Seite)
-2. Komm zur angegebenen Zeit vorbei
+2. Komm vorbei
 3. Suche nach der UUGRN-Gruppe
 4. Stell dich vor und mach mit!
-
-### Anfahrt
-
-**METROPOLIS Lounge**
-Impexstr. 1, 69190 Walldorf
-
-- **Auto:** Gute Parkplätze vorhanden
-- **ÖPNV:** Walldorf Bahnhof, ca. 10 Min. zu Fuß
 
 ### Tipps für Neulinge
 
