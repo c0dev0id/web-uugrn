@@ -34,7 +34,7 @@ Du hast ein spannendes Thema? Community-Mitglieder können Vorträge und Themen 
 ### 🍺 Stammtisch - Geselliges Treffen
 
 **Jeden 3. Montag im Monat, ab 18:30 Uhr**
-**Ort:** Wechselnde Locations (Metropolis Walldorf, Heidelberg & mehr)
+**Ort:** METROPOLIS Lounge, Walldorf
 
 Unser Stammtisch ist das gesellige Treffen für informellen Austausch. Hier steht nicht die Technik im Vordergrund, sondern das Kennenlernen und Netzwerken in entspannter Atmosphäre.
 

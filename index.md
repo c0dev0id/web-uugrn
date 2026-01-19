@@ -15,7 +15,7 @@ title: Home
     <div class="upcoming-events">
         <h2>📅 Nächste Termine</h2>
         <div class="events-compact">
-            <div class="event-compact">
+            <div class="event-compact" data-event="fixme">
                 <div class="event-date-badge">
                     <span class="event-day">Fr</span>
                     <span class="event-num">07</span>
@@ -27,7 +27,7 @@ title: Home
                 </div>
                 <a href="https://fixme.uugrn.org" class="event-link" target="_blank">Details →</a>
             </div>
-            <div class="event-compact">
+            <div class="event-compact" data-event="stammtisch">
                 <div class="event-date-badge">
                     <span class="event-day">Mo</span>
                     <span class="event-num">17</span>
@@ -35,7 +35,7 @@ title: Home
                 </div>
                 <div class="event-details">
                     <strong>Stammtisch</strong>
-                    <span>18:30 Uhr · Ort wird bekannt gegeben</span>
+                    <span>18:30 Uhr · METROPOLIS Lounge, Walldorf</span>
                 </div>
                 <a href="https://stammtisch.uugrn.org" class="event-link" target="_blank">Details →</a>
             </div>
@@ -54,7 +54,7 @@ title: Home
 
             <div class="card compact">
                 <h2>🍺 Stammtisch - Geselliges Treffen</h2>
-                <p class="card-meta">Jeden 3. Montag · 18:30 Uhr · Wechselnde Locations</p>
+                <p class="card-meta">Jeden 3. Montag · 18:30 Uhr · METROPOLIS Lounge, Walldorf</p>
                 <p>Lockerer Austausch in entspannter Atmosphäre. 5-20 Leute plaudern informell, oft bis Mitternacht. Jede/r willkommen, keine Anmeldung nötig.</p>
                 <a href="https://stammtisch.uugrn.org" class="btn btn-small" target="_blank">Mehr Infos →</a>
             </div>
