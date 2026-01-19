@@ -1,0 +1,30 @@
+<footer class="site-footer">
+    <div class="container">
+        <div class="footer-grid">
+            <div class="footer-section">
+                <h3>Unix User Group Rhein-Neckar</h3>
+                <p>{{ site.description }}</p>
+            </div>
+            <div class="footer-section">
+                <h3>Community</h3>
+                <ul class="social-links">
+                    <li><a href="{{ site.mastodon }}" target="_blank" rel="noopener">Mastodon</a></li>
+                    <li><a href="{{ site.telegram }}" target="_blank" rel="noopener">Telegram</a></li>
+                    <li><a href="{{ site.reddit }}" target="_blank" rel="noopener">Reddit</a></li>
+                    <li><a href="{{ site.irc }}" target="_blank" rel="noopener">IRC</a></li>
+                </ul>
+            </div>
+            <div class="footer-section">
+                <h3>Links</h3>
+                <ul>
+                    <li><a href="https://wiki.uugrn.org" target="_blank">Wiki</a></li>
+                    <li><a href="https://lists.uugrn.org" target="_blank">Mailingliste</a></li>
+                    <li><a href="{{ site.github }}" target="_blank">GitHub</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; {{ 'now' | date: "%Y" }} Unix User Group Rhein-Neckar</p>
+        </div>
+    </div>
+</footer>

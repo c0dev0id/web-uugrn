@@ -1,0 +1,40 @@
+title: "Unix User Group Rhein-Neckar"
+description: "Unix und Linux User in der Metropolregion Rhein-Neckar"
+url: "https://uugrn.org"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor/
+
+# Site info
+email: info@uugrn.org
+mastodon: https://rheinneckar.social/@uugrn
+github: https://github.com/c0dev0id
+telegram: https://t.me/uugrn
+irc: "irc://irc.hackint.org/uugrn"
+reddit: https://www.reddit.com/r/uugrn/
+
+# Collections
+collections:
+  events:
+    output: true
+    permalink: /events/:title/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "events"
+    values:
+      layout: "event"
