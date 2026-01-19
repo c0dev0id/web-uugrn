@@ -1,0 +1,91 @@
+---
+layout: page
+title: Stammtisch - Geselliges Treffen
+---
+
+## 🍺 Stammtisch - Geselliges Treffen
+
+Unser Stammtisch ist das **gesellige Treffen** für informellen Austausch. Hier steht nicht die Technik im Vordergrund, sondern das Kennenlernen und Netzwerken in entspannter Atmosphäre.
+
+### Nächster Termin
+
+<div class="event-detail-box">
+    <iframe src="https://vorstand.uugrn.org/Kalender/next_stammtisch.html" class="event-detail-iframe" scrolling="no" frameborder="0"></iframe>
+</div>
+
+**Uhrzeit:** 18:30 Uhr
+**Ort:** METROPOLIS Lounge, Impexstr. 1, 69190 Walldorf
+
+### Regelmäßiger Termin
+
+**Jeden 3. Montag im Monat, ab 18:30 Uhr**
+
+### Was dich erwartet
+
+- **Informeller Austausch** mit 5-20 Gleichgesinnten
+- **Entspannte Atmosphäre** in lockerer Runde
+- **Gespräche** über Technik, Unix, Linux und alles andere
+- **Networking** mit anderen Community-Mitgliedern
+- **Lange Abende** - oft bis Mitternacht oder länger
+
+### Wer ist willkommen?
+
+**JEDE und JEDER!**
+
+Egal ob du:
+- Zum ersten Mal kommst oder schon lange dabei bist
+- Anfänger oder Experte bist
+- Student, Berufstätig oder im Ruhestand bist
+- Viel oder wenig über Unix/Linux weißt
+
+Alle sind herzlich willkommen. Wir haben alle mal klein angefangen!
+
+### Location
+
+**METROPOLIS Lounge Walldorf**
+Impexstr. 1
+69190 Walldorf
+
+Die METROPOLIS Lounge bietet:
+- Gemütliche Atmosphäre
+- Gute Getränkeauswahl
+- Platz für unsere Gruppe
+- Gute Erreichbarkeit
+
+### Wie du teilnimmst
+
+**Einfach vorbeikommen - keine Anmeldung nötig!**
+
+1. Schau dir den Termin an (oben auf der Seite)
+2. Komm zur angegebenen Zeit vorbei
+3. Suche nach der UUGRN-Gruppe
+4. Stell dich vor und mach mit!
+
+### Anfahrt
+
+**METROPOLIS Lounge**
+Impexstr. 1, 69190 Walldorf
+
+- **Auto:** Gute Parkplätze vorhanden
+- **ÖPNV:** Walldorf Bahnhof, ca. 10 Min. zu Fuß
+
+### Tipps für Neulinge
+
+- **Keine Scheu!** Alle sind freundlich und offen
+- **Fragen stellen** - wir helfen gerne weiter
+- **Zeit mitbringen** - die Abende gehen oft länger als geplant
+- **Visitenkarten** - falls du dich vernetzen möchtest (optional)
+
+### Kontakt & Updates
+
+Aktuelle Informationen zu Stammtisch-Terminen:
+
+- **Website:** [stammtisch.uugrn.org](https://stammtisch.uugrn.org)
+- **Mailingliste:** [lists.uugrn.org](https://lists.uugrn.org)
+- **Mastodon:** [@uugrn@rheinneckar.social]({{ site.mastodon }})
+- **Telegram:** [t.me/uugrn]({{ site.telegram }})
+- **IRC:** #uugrn @ irc.hackint.org
+
+---
+
+**Wir freuen uns darauf, dich kennenzulernen!**

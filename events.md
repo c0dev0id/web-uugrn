@@ -5,54 +5,31 @@ title: Events
 
 ## Unsere regelmäßigen Treffen
 
-### 🔧 FIXME - Hands-On Meeting
+Die UUGRN veranstaltet zwei regelmäßige Events: **FIXME** für technischen Austausch und **Stammtisch** für geselliges Beisammensein.
 
-**Jeden 1. Freitag im Monat, ab 19:00 Uhr**
-**Ort:** Dezernat 16, Emil-Maier-Str. 16, Heidelberg
+<div class="event-overview-grid">
+    <div class="event-overview-card">
+        <h3>🔧 FIXME</h3>
+        <p><strong>Jeden 1. Freitag im Monat · 19:00 Uhr</strong></p>
+        <p>Hands-On-Veranstaltung mit Workshops, Vorträgen und praktischem Experimentieren. "Ich zeig euch mal was" ist unser Motto.</p>
+        <p><strong>Nächster Termin:</strong></p>
+        <div class="event-detail-box compact">
+            <iframe src="https://vorstand.uugrn.org/Kalender/next_fixme.html" class="event-detail-iframe" scrolling="no" frameborder="0"></iframe>
+        </div>
+        <a href="{{ '/fixme/' | relative_url }}" class="btn">Alle Infos zu FIXME →</a>
+    </div>
 
-FIXME ist unsere Hands-On-Veranstaltung, bei der wir praktisch mit Technik arbeiten. Das Format kombiniert Workshops, Vorträge und praktisches Experimentieren.
-
-**Was dich erwartet:**
-- Live-Demos und informelle Vorträge nach dem Motto "ich zeig euch mal was"
-- Praktisches Ausprobieren von Tools und Technologien
-- Support für UUGRN-Dienste und persönliche VMs für Mitglieder
-- Pizza (gemeinsam bestellt) und Getränke (vor Ort zu kaufen)
-
-**Wichtig zu wissen:**
-- Keine Anmeldung erforderlich
-- Kostenlose Teilnahme
-- Besonders willkommen sind Anfänger
-- Vorträge werden nur live gehalten, nicht aufgezeichnet
-
-**Themen einbringen:**
-Du hast ein spannendes Thema? Community-Mitglieder können Vorträge und Themen vorschlagen. Ideen werden in unserem Wiki dokumentiert.
-
-🔗 [Mehr Infos und aktuelle Termine](https://fixme.uugrn.org)
-
----
-
-### 🍺 Stammtisch - Geselliges Treffen
-
-**Jeden 3. Montag im Monat, ab 18:30 Uhr**
-**Ort:** METROPOLIS Lounge, Walldorf
-
-Unser Stammtisch ist das gesellige Treffen für informellen Austausch. Hier steht nicht die Technik im Vordergrund, sondern das Kennenlernen und Netzwerken in entspannter Atmosphäre.
-
-**Was dich erwartet:**
-- Informeller Austausch mit 5-20 Gleichgesinnten
-- Entspannte Atmosphäre in verschiedenen Locations
-- Gespräche über Technik und alles andere
-- Oft bis Mitternacht oder länger (je nach Öffnungszeiten)
-
-**Wer ist willkommen:**
-JEDE und JEDER ist herzlich eingeladen! Egal ob du schon lange dabei bist oder das erste Mal kommst – alle haben mal klein angefangen.
-
-**Wie du teilnimmst:**
-- Einfach vorbeikommen – keine Anmeldung nötig
-- Über Mailingliste oder IRC über Termine informieren
-- Social Media Kanälen folgen
-
-🔗 [Mehr Infos und aktuelle Termine](https://stammtisch.uugrn.org)
+    <div class="event-overview-card">
+        <h3>🍺 Stammtisch</h3>
+        <p><strong>Jeden 3. Montag im Monat · 18:30 Uhr</strong></p>
+        <p>Geselliges Treffen für lockeren Austausch in entspannter Atmosphäre. 5-20 Leute plaudern informell, oft bis Mitternacht.</p>
+        <p><strong>Nächster Termin:</strong></p>
+        <div class="event-detail-box compact">
+            <iframe src="https://vorstand.uugrn.org/Kalender/next_stammtisch.html" class="event-detail-iframe" scrolling="no" frameborder="0"></iframe>
+        </div>
+        <a href="{{ '/stammtisch/' | relative_url }}" class="btn">Alle Infos zum Stammtisch →</a>
+    </div>
+</div>
 
 ---
 

@@ -43,16 +43,14 @@ title: Home
         <div class="main-col">
             <div class="card compact">
                 <h2>🔧 FIXME - Hands-On Treffen</h2>
-                <p class="card-meta">Jeden 1. Freitag · 19:00 Uhr · Dezernat 16, Heidelberg</p>
                 <p>Workshops, Vorträge und praktisches Experimentieren mit Technik. Live-Demos, Support für UUGRN-Dienste, Pizza & Getränke.</p>
-                <a href="https://fixme.uugrn.org" class="btn btn-small" target="_blank">Mehr Infos →</a>
+                <a href="{{ '/fixme/' | relative_url }}" class="btn btn-small">Mehr Infos →</a>
             </div>
 
             <div class="card compact">
                 <h2>🍺 Stammtisch - Geselliges Treffen</h2>
-                <p class="card-meta">Jeden 3. Montag · 18:30 Uhr · METROPOLIS Lounge, Walldorf</p>
                 <p>Lockerer Austausch in entspannter Atmosphäre. 5-20 Leute plaudern informell, oft bis Mitternacht. Jede/r willkommen, keine Anmeldung nötig.</p>
-                <a href="https://stammtisch.uugrn.org" class="btn btn-small" target="_blank">Mehr Infos →</a>
+                <a href="{{ '/stammtisch/' | relative_url }}" class="btn btn-small">Mehr Infos →</a>
             </div>
 
             <div class="card compact about-section">

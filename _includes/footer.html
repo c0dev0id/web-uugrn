@@ -17,14 +17,18 @@
             <div class="footer-section">
                 <h3>Links</h3>
                 <ul>
+                    <li><a href="{{ '/fixme/' | relative_url }}">FIXME</a></li>
+                    <li><a href="{{ '/stammtisch/' | relative_url }}">Stammtisch</a></li>
                     <li><a href="https://wiki.uugrn.org" target="_blank">Wiki</a></li>
                     <li><a href="https://lists.uugrn.org" target="_blank">Mailingliste</a></li>
-                    <li><a href="{{ site.github }}" target="_blank">GitHub</a></li>
                 </ul>
             </div>
         </div>
         <div class="footer-bottom">
-            <p>&copy; {{ 'now' | date: "%Y" }} Unix User Group Rhein-Neckar</p>
+            <p>&copy; {{ 'now' | date: "%Y" }} Unix User Group Rhein-Neckar e.V. |
+               <a href="{{ '/impressum/' | relative_url }}">Impressum</a> |
+               <a href="{{ '/about/' | relative_url }}">Über uns</a>
+            </p>
         </div>
     </div>
 </footer>
