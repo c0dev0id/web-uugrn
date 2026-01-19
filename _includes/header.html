@@ -2,10 +2,15 @@
     <div class="container">
         <div class="header-wrapper">
             <div class="site-branding">
-                <h1 class="site-title">
-                    <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
-                </h1>
-                <p class="site-description">{{ site.description }}</p>
+                <a href="{{ '/' | relative_url }}" class="logo-link">
+                    <img src="https://www.uugrn.org/wp-content/uploads/2018/03/cropped-uugrn-logo-pic-300x300.png" alt="UUGRN Logo" class="site-logo">
+                </a>
+                <div class="site-text">
+                    <h1 class="site-title">
+                        <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+                    </h1>
+                    <p class="site-description">{{ site.description }}</p>
+                </div>
             </div>
             <nav class="site-nav">
                 <input type="checkbox" id="nav-toggle" class="nav-toggle">

@@ -24,7 +24,10 @@ body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
     line-height: 1.6;
     color: var(--text-color);
-    background-color: var(--bg-color);
+    background-color: #5e5e5e;
+    background-image: url('https://www.uugrn.org/wp-content/uploads/2018/03/bg_uugrn.png');
+    background-repeat: repeat;
+    background-attachment: scroll;
 }
 
 .container {
@@ -52,7 +55,30 @@ body {
 }
 
 .site-branding {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
     margin-bottom: 0.5rem;
+}
+
+.logo-link {
+    flex-shrink: 0;
+}
+
+.site-logo {
+    height: 50px;
+    width: 50px;
+    border-radius: 4px;
+    transition: transform 0.3s;
+}
+
+.site-logo:hover {
+    transform: scale(1.05);
+}
+
+.site-text {
+    display: flex;
+    flex-direction: column;
 }
 
 .site-title {
@@ -138,12 +164,30 @@ body {
         flex-direction: column;
         align-items: flex-start;
     }
+
+    .site-logo {
+        height: 40px;
+        width: 40px;
+    }
+
+    .site-title {
+        font-size: 1.2rem;
+    }
+
+    .site-description {
+        font-size: 0.8rem;
+    }
 }
 
 /* Main Content */
 .main-content {
     min-height: calc(100vh - 200px);
+    background-color: white;
+    margin: 2rem auto;
     padding: 2rem 0;
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+    max-width: 1240px;
 }
 
 /* Hero Section */
@@ -152,7 +196,8 @@ body {
     color: white;
     padding: 4rem 0;
     text-align: center;
-    margin-bottom: 3rem;
+    margin: -2rem -0 3rem -0;
+    border-radius: 8px 8px 0 0;
 }
 
 .hero h1 {
@@ -373,5 +418,16 @@ body {
 
     .card-grid {
         grid-template-columns: 1fr;
+    }
+
+    .main-content {
+        margin: 1rem;
+        border-radius: 4px;
+    }
+
+    .hero {
+        margin: -2rem -1rem 2rem -1rem;
+        border-radius: 4px 4px 0 0;
+        padding: 2rem 1rem;
     }
 }
