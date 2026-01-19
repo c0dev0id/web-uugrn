@@ -1,7 +1,7 @@
 title: "Unix User Group Rhein-Neckar"
 description: "Unix und Linux User in der Metropolregion Rhein-Neckar"
-url: "https://uugrn.org"
-baseurl: ""
+url: "https://c0dev0id.github.io"
+baseurl: "/web-uugrn"
 
 # Build settings
 markdown: kramdown
