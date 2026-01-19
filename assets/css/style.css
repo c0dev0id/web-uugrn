@@ -344,6 +344,33 @@ body {
     opacity: 0.9;
 }
 
+/* Event Date Display with iFrame */
+.event-date-display {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--secondary-color);
+    color: white;
+    padding: 0.75rem 1rem;
+    border-radius: 6px;
+    min-width: 100px;
+    text-align: center;
+    flex-shrink: 0;
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+.date-iframe {
+    width: 100%;
+    height: 30px;
+    border: none;
+    background: transparent;
+    color: white;
+    font-weight: bold;
+    font-size: 1.1rem;
+    overflow: hidden;
+}
+
 .event-details {
     flex: 1;
     display: flex;
@@ -665,6 +692,17 @@ body {
 
     .event-num {
         font-size: 1.2rem;
+    }
+
+    .event-date-display {
+        min-width: 85px;
+        padding: 0.5rem 0.75rem;
+        font-size: 1rem;
+    }
+
+    .date-iframe {
+        height: 25px;
+        font-size: 1rem;
     }
 
     .card.compact {

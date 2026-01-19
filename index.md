@@ -15,11 +15,9 @@ title: Home
     <div class="upcoming-events">
         <h2>📅 Nächste Termine</h2>
         <div class="events-compact">
-            <div class="event-compact" data-event="fixme">
-                <div class="event-date-badge">
-                    <span class="event-day">Fr</span>
-                    <span class="event-num">07</span>
-                    <span class="event-month">Feb</span>
+            <div class="event-compact">
+                <div class="event-date-display">
+                    <iframe src="https://vorstand.uugrn.org/Kalender/next_fixme.html" class="date-iframe" scrolling="no" frameborder="0"></iframe>
                 </div>
                 <div class="event-details">
                     <strong>FIXME</strong>
@@ -27,11 +25,9 @@ title: Home
                 </div>
                 <a href="https://fixme.uugrn.org" class="event-link" target="_blank">Details →</a>
             </div>
-            <div class="event-compact" data-event="stammtisch">
-                <div class="event-date-badge">
-                    <span class="event-day">Mo</span>
-                    <span class="event-num">17</span>
-                    <span class="event-month">Feb</span>
+            <div class="event-compact">
+                <div class="event-date-display">
+                    <iframe src="https://vorstand.uugrn.org/Kalender/next_stammtisch.html" class="date-iframe" scrolling="no" frameborder="0"></iframe>
                 </div>
                 <div class="event-details">
                     <strong>Stammtisch</strong>
