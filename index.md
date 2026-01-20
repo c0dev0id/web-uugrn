@@ -14,24 +14,33 @@ title: Home
     <!-- Upcoming Events Section -->
     <div class="upcoming-events">
         <h2>📅 Nächste Termine</h2>
-        <div class="events-compact">
-            <div class="event-compact">
-                <div class="event-date-display">
-                    <iframe src="https://vorstand.uugrn.org/Kalender/next_fixme.html" class="date-iframe" scrolling="no" frameborder="0"></iframe>
+        <div class="events-grid">
+            <div class="event-card">
+                <div class="event-card-content">
+                    <h3>UUGRN FIXME</h3>
+                    <iframe src="https://vorstand.uugrn.org/Kalender/next_fixme.html" class="event-info-iframe" scrolling="no" frameborder="0"></iframe>
                 </div>
-                <div class="event-details">
-                    <strong>FIXME</strong>
+                <div class="event-card-action">
+                    <div class="event-badge">
+                        <strong>FIXME</strong>
+                        <iframe src="https://vorstand.uugrn.org/Kalender/next_fixme_compact.html" class="event-compact-iframe" scrolling="no" frameborder="0"></iframe>
+                    </div>
+                    <a href="{{ '/fixme/' | relative_url }}" class="btn btn-small">Details →</a>
                 </div>
-                <a href="{{ '/fixme/' | relative_url }}" class="event-link">Details →</a>
             </div>
-            <div class="event-compact">
-                <div class="event-date-display">
-                    <iframe src="https://vorstand.uugrn.org/Kalender/next_stammtisch.html" class="date-iframe" scrolling="no" frameborder="0"></iframe>
+
+            <div class="event-card">
+                <div class="event-card-content">
+                    <h3>UUGRN Stammtisch</h3>
+                    <iframe src="https://vorstand.uugrn.org/Kalender/next_stammtisch.html" class="event-info-iframe" scrolling="no" frameborder="0"></iframe>
                 </div>
-                <div class="event-details">
-                    <strong>Stammtisch</strong>
+                <div class="event-card-action">
+                    <div class="event-badge">
+                        <strong>Stammtisch</strong>
+                        <iframe src="https://vorstand.uugrn.org/Kalender/next_stammtisch_compact.html" class="event-compact-iframe" scrolling="no" frameborder="0"></iframe>
+                    </div>
+                    <a href="{{ '/stammtisch/' | relative_url }}" class="btn btn-small">Details →</a>
                 </div>
-                <a href="{{ '/stammtisch/' | relative_url }}" class="event-link">Details →</a>
             </div>
         </div>
     </div>

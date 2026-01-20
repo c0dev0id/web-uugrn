@@ -291,26 +291,76 @@ body {
     font-size: 1.3rem;
 }
 
-.events-compact {
+.events-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    gap: 1rem;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    gap: 1.5rem;
 }
 
-.event-compact {
+.event-card {
     display: flex;
-    align-items: center;
-    gap: 1rem;
     background: white;
-    padding: 1rem;
-    border-radius: 6px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    padding: 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    gap: 1.5rem;
     transition: transform 0.2s, box-shadow 0.2s;
 }
 
-.event-compact:hover {
+.event-card:hover {
     transform: translateY(-2px);
-    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+.event-card-content {
+    flex: 1;
+}
+
+.event-card-content h3 {
+    color: var(--primary-color);
+    margin: 0 0 1rem 0;
+    font-size: 1.1rem;
+}
+
+.event-card-action {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    min-width: 180px;
+}
+
+.event-badge {
+    background: var(--bg-alt);
+    padding: 1rem;
+    border-radius: 6px;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+.event-badge strong {
+    display: block;
+    color: var(--primary-color);
+    margin-bottom: 0.5rem;
+    font-size: 1rem;
+}
+
+.event-info-iframe {
+    width: 100%;
+    height: 120px;
+    border: none;
+    background: transparent;
+    overflow: hidden;
+}
+
+.event-compact-iframe {
+    width: 100%;
+    height: 40px;
+    border: none;
+    background: transparent;
+    overflow: hidden;
+    font-size: 0.85rem;
 }
 
 .event-date-badge {
@@ -724,7 +774,7 @@ body {
         gap: 1rem;
     }
 
-    .events-compact {
+    .events-grid {
         grid-template-columns: 1fr;
     }
 
@@ -737,28 +787,25 @@ body {
         font-size: 1.1rem;
     }
 
-    .event-compact {
-        padding: 0.75rem;
+    .event-card {
+        flex-direction: column;
+        padding: 1rem;
     }
 
-    .event-date-badge {
-        min-width: 45px;
-        padding: 0.4rem;
-    }
-
-    .event-num {
-        font-size: 1.2rem;
-    }
-
-    .event-date-display {
-        min-width: 85px;
-        padding: 0.5rem 0.75rem;
+    .event-card-content h3 {
         font-size: 1rem;
     }
 
-    .date-iframe {
-        height: 25px;
-        font-size: 1rem;
+    .event-card-action {
+        min-width: 100%;
+    }
+
+    .event-info-iframe {
+        height: 100px;
+    }
+
+    .event-compact-iframe {
+        height: 35px;
     }
 
     .card.compact {
