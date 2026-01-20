@@ -312,55 +312,41 @@ body {
     box-shadow: 0 4px 12px rgba(0,0,0,0.15);
 }
 
-.event-card-content {
+.event-card-left {
     flex: 1;
 }
 
-.event-card-content h3 {
+.event-card-left h3 {
     color: var(--primary-color);
     margin: 0 0 1rem 0;
     font-size: 1.1rem;
 }
 
-.event-card-action {
+.event-card-right {
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: space-between;
-    min-width: 180px;
+    justify-content: center;
+    gap: 1rem;
+    min-width: 150px;
 }
 
 .event-badge {
     background: var(--bg-alt);
-    padding: 1rem;
+    padding: 1rem 1.5rem;
     border-radius: 6px;
     text-align: center;
-    width: 100%;
-    margin-bottom: 1rem;
-}
-
-.event-badge strong {
-    display: block;
     color: var(--primary-color);
-    margin-bottom: 0.5rem;
+    font-weight: bold;
     font-size: 1rem;
 }
 
 .event-info-iframe {
     width: 100%;
-    height: 120px;
+    height: 110px;
     border: none;
     background: transparent;
     overflow: hidden;
-}
-
-.event-compact-iframe {
-    width: 100%;
-    height: 40px;
-    border: none;
-    background: transparent;
-    overflow: hidden;
-    font-size: 0.85rem;
 }
 
 .event-date-badge {
