@@ -39,12 +39,6 @@ Community-Forum für Diskussionen und Austausch.
 
 ## 📚 Ressourcen
 
-### Wiki
-Unsere Wissensdatenbank mit Informationen zu Treffen, Projekten und mehr.
-- **Link:** [wiki.uugrn.org](https://wiki.uugrn.org)
-- Organizational information und Meeting-Details
-- Beiträge willkommen (siehe WikiHowTo)
-
 ### YouTube
 Gelegentliche Video-Inhalte von Events und Vorträgen.
 - **Channel:** [UUGRN YouTube](https://www.youtube.com/channel/UCtoDFWgD65QZo5qIW4UgU2Q)
@@ -68,10 +62,10 @@ Die Unix User Group Rhein-Neckar ist ein eingetragener gemeinnütziger Verein (e
 
 ### Wie werde ich Mitglied?
 
-Informationen zur Mitgliedschaft, Satzung und Aufnahmeantrag findest du auf:
-- [wiki.uugrn.org](https://wiki.uugrn.org) - Membership Information
-- Oder sprich uns bei einem unserer Treffen an
+Informationen zur Mitgliedschaft, Satzung und Aufnahmeantrag:
+- Sprich uns bei einem unserer Treffen an
+- Oder kontaktiere uns über die [Mailingliste](https://lists.uugrn.org)
 
 ## 📖 Content Lizenz
 
-Inhalte im Wiki und auf der Website sind unter Attribution-ShareAlike 2.5 lizenziert.
+Inhalte auf dieser Website sind unter Attribution-ShareAlike 2.5 lizenziert.

@@ -46,7 +46,7 @@ Du hast ein spannendes Thema, das du zeigen möchtest? Perfekt!
 
 - Schreib einfach auf der [Mailingliste](https://lists.uugrn.org), was du vorstellen möchtest
 - Oder bring es spontan mit zum FIXME
-- Ideen werden auch in unserem [Wiki](https://wiki.uugrn.org) gesammelt
+- Ideen werden auch auf der Mailingliste gesammelt
 
 ### Kontakt & Updates
 
@@ -56,7 +56,6 @@ Aktuelle Informationen zu FIXME-Terminen:
 - **Mastodon:** [@uugrn@rheinneckar.social]({{ site.mastodon }})
 - **Telegram:** [UUGRN Telegram]({{ site.telegram }})
 - **IRC:** #uugrn @ irc.hackint.org
-- **Wiki:** [wiki.uugrn.org](https://wiki.uugrn.org)
 
 ---
 

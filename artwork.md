@@ -15,67 +15,67 @@ permalink: /artwork/
 
         <div class="card">
             <div style="background: #f5f5f5; padding: 2rem; text-align: center; min-height: 200px; display: flex; align-items: center; justify-content: center;">
-                <img src="https://wiki.uugrn.org/images/3/33/Uugrn_logo_plain.png" alt="UUGRN Logo Plain" style="max-width: 100%; max-height: 180px;">
+                <img src="{{ '/assets/images/uugrn_logo_plain.png' | relative_url }}" alt="UUGRN Logo Plain" style="max-width: 100%; max-height: 180px;">
             </div>
             <div style="padding: 1.5rem;">
                 <h3 style="margin-top: 0;">UUGRN Logo Plain</h3>
                 <p>Das Standard-Logo ohne zusätzliche Elemente.</p>
-                <a href="https://wiki.uugrn.org/images/3/33/Uugrn_logo_plain.png" class="btn btn-small" download>Download PNG</a>
+                <a href="{{ '/assets/images/uugrn_logo_plain.png' | relative_url }}" class="btn btn-small" download>Download PNG</a>
             </div>
         </div>
 
         <div class="card">
             <div style="background: #f5f5f5; padding: 2rem; text-align: center; min-height: 200px; display: flex; align-items: center; justify-content: center;">
-                <img src="https://wiki.uugrn.org/images/4/4d/Uugrn_logo_event.png" alt="UUGRN Logo Event" style="max-width: 100%; max-height: 180px;">
+                <img src="{{ '/assets/images/uugrn_logo_event.png' | relative_url }}" alt="UUGRN Logo Event" style="max-width: 100%; max-height: 180px;">
             </div>
             <div style="padding: 1.5rem;">
                 <h3 style="margin-top: 0;">UUGRN Logo Event</h3>
                 <p>Logo-Variante für Events mit Platzhalter für Event-Namen.</p>
-                <a href="https://wiki.uugrn.org/images/4/4d/Uugrn_logo_event.png" class="btn btn-small" download>Download PNG</a>
+                <a href="{{ '/assets/images/uugrn_logo_event.png' | relative_url }}" class="btn btn-small" download>Download PNG</a>
             </div>
         </div>
 
         <div class="card">
             <div style="background: #f5f5f5; padding: 2rem; text-align: center; min-height: 200px; display: flex; align-items: center; justify-content: center;">
-                <img src="https://wiki.uugrn.org/images/7/7a/Uugrn_logo_with_u_bar.png" alt="UUGRN Logo with U Bar" style="max-width: 100%; max-height: 180px;">
+                <img src="{{ '/assets/images/uugrn_logo_with_u_bar.png' | relative_url }}" alt="UUGRN Logo with U Bar" style="max-width: 100%; max-height: 180px;">
             </div>
             <div style="padding: 1.5rem;">
                 <h3 style="margin-top: 0;">UUGRN Logo with U Bar</h3>
                 <p>Logo mit zusätzlichem Unterstrich-Element.</p>
-                <a href="https://wiki.uugrn.org/images/7/7a/Uugrn_logo_with_u_bar.png" class="btn btn-small" download>Download PNG</a>
+                <a href="{{ '/assets/images/uugrn_logo_with_u_bar.png' | relative_url }}" class="btn btn-small" download>Download PNG</a>
             </div>
         </div>
 
         <div class="card" style="border: 2px solid #2196F3;">
             <div style="background: #f5f5f5; padding: 2rem; text-align: center; min-height: 200px; display: flex; align-items: center; justify-content: center;">
-                <img src="https://wiki.uugrn.org/images/9/9d/Uugrn_vector.svg" alt="UUGRN Vector Logo" style="max-width: 100%; max-height: 180px;">
+                <img src="{{ '/assets/images/uugrn_vector.svg' | relative_url }}" alt="UUGRN Vector Logo" style="max-width: 100%; max-height: 180px;">
             </div>
             <div style="padding: 1.5rem;">
                 <h3 style="margin-top: 0;">UUGRN Vector (SVG) ⭐</h3>
                 <p>Vektorversion des Logos – skaliert perfekt auf jede Größe. <strong>Empfohlen für Druck und Web!</strong></p>
-                <a href="https://wiki.uugrn.org/images/9/9d/Uugrn_vector.svg" class="btn btn-primary btn-small" download>Download SVG</a>
+                <a href="{{ '/assets/images/uugrn_vector.svg' | relative_url }}" class="btn btn-primary btn-small" download>Download SVG</a>
             </div>
         </div>
 
         <div class="card">
             <div style="background: #f5f5f5; padding: 2rem; text-align: center; min-height: 200px; display: flex; align-items: center; justify-content: center;">
-                <img src="https://wiki.uugrn.org/images/e/eb/Uugrn_tux_und_beastie.jpg" alt="Tux und Beastie" style="max-width: 100%; max-height: 180px;">
+                <img src="{{ '/assets/images/uugrn_tux_und_beastie.jpg' | relative_url }}" alt="Tux und Beastie" style="max-width: 100%; max-height: 180px;">
             </div>
             <div style="padding: 1.5rem;">
                 <h3 style="margin-top: 0;">Tux und Beastie</h3>
                 <p>Das klassische UUGRN-Motiv mit Tux (Linux) und Beastie (BSD).</p>
-                <a href="https://wiki.uugrn.org/images/e/eb/Uugrn_tux_und_beastie.jpg" class="btn btn-small" download>Download JPG</a>
+                <a href="{{ '/assets/images/uugrn_tux_und_beastie.jpg' | relative_url }}" class="btn btn-small" download>Download JPG</a>
             </div>
         </div>
 
         <div class="card">
             <div style="background: #f5f5f5; padding: 2rem; text-align: center; min-height: 200px; display: flex; align-items: center; justify-content: center;">
-                <img src="https://wiki.uugrn.org/images/3/3a/Fixme_Logo.png" alt="FIXME Logo" style="max-width: 100%; max-height: 180px;">
+                <img src="{{ '/assets/images/fixme_logo.png' | relative_url }}" alt="FIXME Logo" style="max-width: 100%; max-height: 180px;">
             </div>
             <div style="padding: 1.5rem;">
                 <h3 style="margin-top: 0;">FIXME Logo</h3>
                 <p>Logo für das monatliche FIXME Hands-On Event.</p>
-                <a href="https://wiki.uugrn.org/images/3/3a/Fixme_Logo.png" class="btn btn-small" download>Download PNG</a>
+                <a href="{{ '/assets/images/fixme_logo.png' | relative_url }}" class="btn btn-small" download>Download PNG</a>
             </div>
         </div>
 
@@ -87,13 +87,13 @@ permalink: /artwork/
 
         <div class="card">
             <div style="background: #f5f5f5; padding: 2rem; text-align: center; min-height: 200px; display: flex; align-items: center; justify-content: center;">
-                <img src="https://wiki.uugrn.org/images/9/98/UUGRN_Tux_und_Chuck_1999-12-08.2.png" alt="UUGRN Logo 1999" style="max-width: 100%; max-height: 180px;">
+                <img src="{{ '/assets/images/uugrn_logo_1999.png' | relative_url }}" alt="UUGRN Logo 1999" style="max-width: 100%; max-height: 180px;">
             </div>
             <div style="padding: 1.5rem;">
                 <h3 style="margin-top: 0;">UUGRN Logo (1999)</h3>
                 <p>Das ursprüngliche UUGRN-Logo von <strong>Raphael Eiselstein</strong> aus dem Jahr 1999.</p>
                 <p style="font-size: 0.9rem; color: #666;"><em>Lizenz: CC-by-sa 2.5</em></p>
-                <a href="https://wiki.uugrn.org/images/9/98/UUGRN_Tux_und_Chuck_1999-12-08.2.png" class="btn btn-small" download>Download PNG</a>
+                <a href="{{ '/assets/images/uugrn_logo_1999.png' | relative_url }}" class="btn btn-small" download>Download PNG</a>
             </div>
         </div>
 
@@ -107,6 +107,5 @@ permalink: /artwork/
             <li>Das Event-Logo kann mit spezifischen Event-Namen angepasst werden</li>
             <li>Bei Fragen zur Nutzung kontaktiere den Vorstand über die <a href="https://lists.uugrn.org">Mailingliste</a></li>
         </ul>
-        <p style="margin-bottom: 0;">Weitere Artwork-Ressourcen findest du im <a href="https://wiki.uugrn.org/Artwork" target="_blank">UUGRN Wiki</a>.</p>
     </div>
 </div>

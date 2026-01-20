@@ -60,7 +60,6 @@ Aktuelle Informationen zu Stammtisch-Terminen:
 - **Mastodon:** [@uugrn@rheinneckar.social]({{ site.mastodon }})
 - **Telegram:** [UUGRN Telegram]({{ site.telegram }})
 - **IRC:** #uugrn @ irc.hackint.org
-- **Wiki:** [wiki.uugrn.org](https://wiki.uugrn.org)
 
 ---
 

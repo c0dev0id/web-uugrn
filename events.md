@@ -43,7 +43,3 @@ Die genauen Termine und Orte werden über folgende Kanäle bekannt gegeben:
 - **IRC:** #uugrn @ irc.hackint.org
 - **Telegram:** [t.me/uugrn]({{ site.telegram }})
 - **Reddit:** [r/uugrn]({{ site.reddit }})
-
-## Kalender
-
-Alle Termine findest du auch in unserem [Kalender](https://wiki.uugrn.org).
