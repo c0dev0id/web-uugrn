@@ -61,39 +61,41 @@ title: Home
 
             <div class="card compact">
                 <h2>🔧 FIXME - Hands-On Treffen</h2>
-                <img src="https://fixme.uugrn.org/wp-content/uploads/2019/01/fixme-header.jpg" alt="FIXME Event" class="card-image" style="width: 100%; height: auto; margin-bottom: 1rem; border-radius: 4px;">
                 <p>
                     FIXME ist unser monatliches Hands-On Event für alle, die gerne praktisch mit Technik arbeiten.
-                    Hier treffen sich Tinkerer, Maker und IT-Enthusiasten zum gemeinsamen Experimentieren, Lernen und Austausch.
+                    Jeden ersten Freitag im Monat ab 19:00 Uhr im Dezernat 16 in Heidelberg treffen sich Tinkerer, Maker
+                    und IT-Enthusiasten zum gemeinsamen Experimentieren, Lernen und Austausch.
                 </p>
                 <p>
-                    Bei FIXME gibt es Workshops zu verschiedenen Themen – von Linux-Administration über Programmierung bis zu
-                    Hardware-Projekten. Wir organisieren Live-Demos neuer Technologien, bieten Support für UUGRN-Dienste und
-                    diskutieren aktuelle Entwicklungen in der Open-Source-Welt. Natürlich dürfen Pizza und Getränke nicht fehlen!
+                    Die Teilnehmer präsentieren informelle Demonstrationen und Vorträge im "Show and Tell"-Stil. Themen werden
+                    über das FIXME-Wiki koordiniert, aber auch spontanes hands-on arbeiten an technischen Projekten gehört dazu.
+                    Die Veranstaltung ist kostenlos, Getränke und Essen werden selbst bezahlt. Pizza wird oft gemeinsam bestellt.
                 </p>
                 <p>
-                    Egal ob du ein konkretes Projekt hast, etwas lernen möchtest oder einfach nur vorbeischauen willst –
-                    FIXME bietet den perfekten Rahmen für praktisches Arbeiten in lockerer Atmosphäre.
+                    Von Linux-Administration über Programmierung bis zu Hardware-Projekten – wir organisieren Live-Demos neuer
+                    Technologien, bieten Support für UUGRN-Dienste und diskutieren aktuelle Entwicklungen in der Open-Source-Welt.
+                    Newcomer sind immer dabei, du bist also in guter Gesellschaft! Keine Anmeldung erforderlich.
                 </p>
                 <a href="{{ '/fixme/' | relative_url }}" class="btn btn-small">Mehr Infos →</a>
             </div>
 
             <div class="card compact">
                 <h2>🍺 Stammtisch - Geselliges Treffen</h2>
-                <img src="https://stammtisch.uugrn.org/wp-content/uploads/2018/03/stammtisch-atmosphere.jpg" alt="Stammtisch Treffen" class="card-image" style="width: 100%; height: auto; margin-bottom: 1rem; border-radius: 4px;">
                 <p>
-                    Unser legendärer Stammtisch ist das Herzstück der UUGRN. Hier treffen sich regelmäßig 5-20 Unix- und
-                    Linux-Begeisterte zum lockeren Austausch in entspannter Atmosphäre. Die Gespräche reichen von technischen
-                    Diskussionen über neue Distributionen bis zu Alltäglichem – oft plaudern wir bis tief in die Nacht.
+                    Unser legendärer Stammtisch ist das Herzstück der UUGRN. Jeden dritten Montag im Monat ab 18:30 Uhr
+                    treffen sich regelmäßig 5-20 Unix- und Linux-Begeisterte zum lockeren Austausch in Restaurant-Atmosphäre.
+                    Die Gespräche reichen von technischen Diskussionen über neue Distributionen bis zu Alltäglichem – oft
+                    plaudern wir bis Mitternacht oder länger.
                 </p>
                 <p>
-                    Der Stammtisch findet in der METROPOLIS Lounge in Walldorf statt und bietet die perfekte Gelegenheit,
-                    die Community kennenzulernen. Neue Gesichter sind immer herzlich willkommen! Es gibt keine Agenda,
-                    keine Vorträge – nur gute Gespräche bei einem Getränk.
+                    Der Stammtisch findet aktuell in der METROPOLIS Lounge in Walldorf statt und bietet die perfekte Gelegenheit,
+                    die Community kennenzulernen. Die Teilnehmerzahl variiert je nach Jahreszeit und Wetter. Neue Gesichter sind
+                    immer herzlich willkommen! Es gibt keine Agenda, keine Vorträge – nur gute Gespräche bei einem Getränk.
                 </p>
                 <p>
+                    Im Gegensatz zum FIXME steht hier das gesellige Beisammensein im Vordergrund, nicht die technische Arbeit.
                     Jede/r ist willkommen, eine Anmeldung ist nicht nötig. Einfach vorbeikommen, dazusetzen und mitmachen.
-                    Viele langjährige Freundschaften sind an unserem Stammtisch entstanden.
+                    Viele langjährige Freundschaften sind an unserem Stammtisch entstanden. Newcomer sind immer dabei – du bist in guter Gesellschaft!
                 </p>
                 <a href="{{ '/stammtisch/' | relative_url }}" class="btn btn-small">Mehr Infos →</a>
             </div>
@@ -109,6 +111,7 @@ title: Home
                     <li><a href="{{ site.irc }}" target="_blank">💻 IRC</a></li>
                     <li><a href="https://lists.uugrn.org" target="_blank">📧 Mailingliste</a></li>
                     <li><a href="https://wiki.uugrn.org" target="_blank">📚 Wiki</a></li>
+                    <li><a href="{{ '/artwork/' | relative_url }}">🎨 Artwork</a></li>
                 </ul>
             </div>
         </div>

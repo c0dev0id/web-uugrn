@@ -56,11 +56,11 @@ Alle sind herzlich willkommen. Wir haben alle mal klein angefangen!
 
 Aktuelle Informationen zu Stammtisch-Terminen:
 
-- **Website:** [stammtisch.uugrn.org](https://stammtisch.uugrn.org)
 - **Mailingliste:** [lists.uugrn.org](https://lists.uugrn.org)
 - **Mastodon:** [@uugrn@rheinneckar.social]({{ site.mastodon }})
-- **Telegram:** [t.me/uugrn]({{ site.telegram }})
+- **Telegram:** [UUGRN Telegram]({{ site.telegram }})
 - **IRC:** #uugrn @ irc.hackint.org
+- **Wiki:** [wiki.uugrn.org](https://wiki.uugrn.org)
 
 ---
 

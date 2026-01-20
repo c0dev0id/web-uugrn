@@ -52,10 +52,11 @@ Du hast ein spannendes Thema, das du zeigen möchtest? Perfekt!
 
 Aktuelle Informationen zu FIXME-Terminen:
 
-- **Website:** [fixme.uugrn.org](https://fixme.uugrn.org)
 - **Mailingliste:** [lists.uugrn.org](https://lists.uugrn.org)
 - **Mastodon:** [@uugrn@rheinneckar.social]({{ site.mastodon }})
+- **Telegram:** [UUGRN Telegram]({{ site.telegram }})
 - **IRC:** #uugrn @ irc.hackint.org
+- **Wiki:** [wiki.uugrn.org](https://wiki.uugrn.org)
 
 ---
 
