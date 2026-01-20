@@ -1,6 +1,7 @@
 ---
 layout: page
 title: FIXME - Hands-On Meeting
+permalink: /fixme/
 ---
 
 ## 🔧 FIXME - Hands-On Treffen

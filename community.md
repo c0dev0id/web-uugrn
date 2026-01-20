@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Community
+permalink: /community/
 ---
 
 ## Werde Teil unserer Community

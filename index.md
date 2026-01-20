@@ -22,7 +22,7 @@ title: Home
                 <div class="event-details">
                     <strong>FIXME</strong>
                 </div>
-                <a href="https://fixme.uugrn.org" class="event-link" target="_blank">Details →</a>
+                <a href="{{ '/fixme/' | relative_url }}" class="event-link">Details →</a>
             </div>
             <div class="event-compact">
                 <div class="event-date-display">
@@ -31,7 +31,7 @@ title: Home
                 <div class="event-details">
                     <strong>Stammtisch</strong>
                 </div>
-                <a href="https://stammtisch.uugrn.org" class="event-link" target="_blank">Details →</a>
+                <a href="{{ '/stammtisch/' | relative_url }}" class="event-link">Details →</a>
             </div>
         </div>
     </div>

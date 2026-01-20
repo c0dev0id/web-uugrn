@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Über uns
+permalink: /about/
 ---
 
 ## Unix User Group Rhein-Neckar

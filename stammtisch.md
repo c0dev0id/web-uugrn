@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Stammtisch - Geselliges Treffen
+permalink: /stammtisch/
 ---
 
 ## 🍺 Stammtisch - Geselliges Treffen
