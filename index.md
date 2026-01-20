@@ -17,7 +17,6 @@ title: Home
         <div class="events-grid">
             <div class="event-card">
                 <div class="event-card-left">
-                    <h3>UUGRN FIXME</h3>
                     <iframe src="https://vorstand.uugrn.org/Kalender/next_fixme.html" class="event-info-iframe" scrolling="no" frameborder="0"></iframe>
                 </div>
                 <div class="event-card-right">
@@ -27,7 +26,6 @@ title: Home
 
             <div class="event-card">
                 <div class="event-card-left">
-                    <h3>UUGRN Stammtisch</h3>
                     <iframe src="https://vorstand.uugrn.org/Kalender/next_stammtisch.html" class="event-info-iframe" scrolling="no" frameborder="0"></iframe>
                 </div>
                 <div class="event-card-right">
