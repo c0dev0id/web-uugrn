@@ -66,9 +66,9 @@ body {
 }
 
 .site-logo {
-    height: 50px;
-    width: 50px;
-    border-radius: 4px;
+    height: 70px;
+    width: auto;
+    filter: brightness(0) invert(1);
     transition: transform 0.3s;
 }
 
