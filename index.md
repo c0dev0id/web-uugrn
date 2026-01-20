@@ -21,7 +21,6 @@ title: Home
                     <iframe src="https://vorstand.uugrn.org/Kalender/next_fixme.html" class="event-info-iframe" scrolling="no" frameborder="0"></iframe>
                 </div>
                 <div class="event-card-right">
-                    <div class="event-badge">FIXME</div>
                     <a href="{{ '/fixme/' | relative_url }}" class="btn btn-small">Details →</a>
                 </div>
             </div>
@@ -32,7 +31,6 @@ title: Home
                     <iframe src="https://vorstand.uugrn.org/Kalender/next_stammtisch.html" class="event-info-iframe" scrolling="no" frameborder="0"></iframe>
                 </div>
                 <div class="event-card-right">
-                    <div class="event-badge">Stammtisch</div>
                     <a href="{{ '/stammtisch/' | relative_url }}" class="btn btn-small">Details →</a>
                 </div>
             </div>
@@ -75,12 +73,6 @@ title: Home
                     <li><a href="https://lists.uugrn.org" target="_blank">📧 Mailingliste</a></li>
                     <li><a href="https://wiki.uugrn.org" target="_blank">📚 Wiki</a></li>
                 </ul>
-            </div>
-
-            <div class="card compact cta-box">
-                <h3>Mitmachen?</h3>
-                <p>Einfach vorbeikommen! Keine Anmeldung nötig.</p>
-                <a href="{{ '/events/' | relative_url }}" class="btn btn-primary btn-block">Alle Events ansehen</a>
             </div>
         </div>
     </div>
