@@ -110,6 +110,7 @@ title: Home
                     <li><a href="{{ site.reddit }}" target="_blank">🔗 Reddit</a></li>
                     <li><a href="{{ site.irc }}" target="_blank">💻 IRC</a></li>
                     <li><a href="https://lists.uugrn.org" target="_blank">📧 Mailingliste</a></li>
+                    <li><a href="{{ '/kalender/' | relative_url }}">📅 Kalender</a></li>
                     <li><a href="{{ '/artwork/' | relative_url }}">🎨 Artwork</a></li>
                 </ul>
             </div>
